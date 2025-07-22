@@ -35,7 +35,7 @@ This project automates the login and deposit functionality of a sample banking a
     ```bash
    System.setProperty("webdriver.chrome.driver", "C:\\Path\\To\\chromedriver.exe");
 
-4. **Run the test from your IDE**
+4. **Right-click on `testng.xml` → Run As → TestNG Suite**
 
 
 
