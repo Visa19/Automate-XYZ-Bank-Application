@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="XYX Bank Test Suite 01">
+
+	<test name="Test Cases">
+	
+	
+   
+		<classes>
+			<class name="Automation_Scripts.Deposit"></class>
+		</classes>
+
+	</test>
+
+</suite>
